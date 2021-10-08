@@ -1,5 +1,5 @@
 <?php
-class Matakuliah ectends CI_Controller
+class Matakuliah extends CI_Controller
 {
     public function index()
 
